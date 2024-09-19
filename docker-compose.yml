@@ -45,7 +45,7 @@ services:
       - AppSettings:Ctf:Challenges:HiddenPageLoginAdmin=true
       - AppSettings:Ctf:Challenges:InvalidRedirect=true
       - AppSettings:Ctf:Challenges:DirectoryBrowsing=true
-      - AppSettings:Ctf:Challenges:Swagger=true
+      - AppSettings:Ctf:Challenges:Swagger=false
       - AppSettings:Ctf:Challenges:Base2048Content=true
       - AppSettings:Ctf:Challenges:SimultaneousRequest=true
       - AppSettings:Ctf:Challenges:reDOS=true
